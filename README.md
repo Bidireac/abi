@@ -26,4 +26,4 @@ Project is:  _finished
 
 ## Live Demo
 
-https://fake-store-live.herokuapp.com/
+https://suspicious-ptolemy-e66d27.netlify.app/
